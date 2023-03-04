@@ -1,0 +1,36 @@
+{
+  "files": {
+    "monaco-editor-common.css": "/static/css/monaco-editor-common.48c935db.chunk.css",
+    "monaco-editor-common.js": "/static/js/monaco-editor-common.c79c2d58.chunk.js",
+    "codeEditor.js": "/static/js/codeEditor.714f9d2f.chunk.js",
+    "main.js": "/static/js/main.3d77f074.chunk.js",
+    "pdf.js": "/static/js/pdf.0908bfa9.chunk.js",
+    "react-pdf.js": "/static/js/react-pdf.ec9e18a9.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.361d2193.js",
+    "static/css/6.dac0b951.chunk.css": "/static/css/6.dac0b951.chunk.css",
+    "static/js/6.465d33b6.chunk.js": "/static/js/6.465d33b6.chunk.js",
+    "static/js/7.f919f3de.chunk.js": "/static/js/7.f919f3de.chunk.js",
+    "static/js/8.3771fbfa.chunk.js": "/static/js/8.3771fbfa.chunk.js",
+    "static/js/9.8aae53eb.chunk.js": "/static/js/9.8aae53eb.chunk.js",
+    "static/js/10.8e0e1591.chunk.js": "/static/js/10.8e0e1591.chunk.js",
+    "static/js/11.ab19f151.chunk.js": "/static/js/11.ab19f151.chunk.js",
+    "static/js/12.93b2d9c6.chunk.js": "/static/js/12.93b2d9c6.chunk.js",
+    "static/js/13.df72355a.chunk.js": "/static/js/13.df72355a.chunk.js",
+    "css.worker.js": "/css.worker.js",
+    "editor.worker.js": "/editor.worker.js",
+    "html.worker.js": "/html.worker.js",
+    "index.html": "/index.html",
+    "json.worker.js": "/json.worker.js",
+    "precache-manifest.b2d3d1f50a4fda2c42c75d1de510452f.js": "/precache-manifest.b2d3d1f50a4fda2c42c75d1de510452f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/codicon.css": "/static/media/codicon.b13daaad.ttf",
+    "static/media/getFetch.cjs": "/static/media/getFetch.51c934af.cjs",
+    "version.json": "/version.json"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.361d2193.js",
+    "static/css/6.dac0b951.chunk.css",
+    "static/js/6.465d33b6.chunk.js",
+    "static/js/main.3d77f074.chunk.js"
+  ]
+}
